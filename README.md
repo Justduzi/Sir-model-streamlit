@@ -7,3 +7,4 @@ Pandas<br/>
 Numpy<br/>
 Matplotlib<br/>
 Scikit-learn<br/>
+https://share.streamlit.io/justduzi/sir-model-streamlit/main/App.py
